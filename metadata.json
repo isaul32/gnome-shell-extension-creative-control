@@ -2,7 +2,7 @@
   "name": "Creative Sound Blaster control",
   "description": "Control Creative Sound Blaster",
   "uuid": "creative-control@sau.li",
-  "shell-version": ["3.36", "3.37", "3.38", "40", "41", "42"],
-  "version": 3,
+  "shell-version": ["3.36", "3.37", "3.38", "40", "41", "42", "43"],
+  "version": 4,
   "url": "https://github.com/isaul32/gnome-shell-extension-creative-control"
 }
